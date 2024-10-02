@@ -1,0 +1,12 @@
+.button_container {
+  margin-top: 200px;
+  text-align: center;
+  }
+  .button {
+  background-color: rgb(229, 255, 0);
+  border: none;
+  color: black;
+  font-size: 24px;
+  height: 80px;
+  width: 120px;
+  } 
